@@ -6,7 +6,6 @@ dist: bionic
 
 language: java
 
-before_install: cd EksamenBackend
 cache:
   directories:  
     - $HOME/.m2
